@@ -15,4 +15,4 @@ In addition to the above Terraform repositories, I have also worked on various o
 [GitHub repositories](https://www.github.com/tunckasik).
 
 ## Contact Me
-Feel free to connect with me on LinkedIn to learn more about my Terraform and cloud engineering experiences or to collaborate on future projects
+Feel free to connect with me on LinkedIn to learn more about my cloud engineering experiences or to collaborate on future projects
